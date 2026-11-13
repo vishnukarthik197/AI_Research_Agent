@@ -1,0 +1,36 @@
+
+# Environment variables and secrets
+.env
+.env.*
+!.env.example
+
+# Python virtual environments
+.venv/
+venv/
+env/
+
+# Python cache files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Testing cache
+.pytest_cache/
+.coverage
+htmlcov/
+
+# Database files
+*.db
+*.sqlite3
+
+# Generated research reports and temporary data
+reports/research_results.json
+reports/research_summary.md
+
+# OS and editor files
+.DS_Store
+.vscode/
+.idea/
+
+# Git
+.git/

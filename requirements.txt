@@ -1,0 +1,7 @@
+ddgs
+python-dotenv
+google-genai
+uvicorn
+fastapi
+beautifulsoup4
+streamlit
